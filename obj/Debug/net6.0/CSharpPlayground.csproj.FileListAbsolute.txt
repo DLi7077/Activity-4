@@ -1,0 +1,15 @@
+D:\Documents\Projects\CSharpPlayground\bin\Debug\net6.0\CSharpPlayground.exe
+D:\Documents\Projects\CSharpPlayground\bin\Debug\net6.0\CSharpPlayground.deps.json
+D:\Documents\Projects\CSharpPlayground\bin\Debug\net6.0\CSharpPlayground.runtimeconfig.json
+D:\Documents\Projects\CSharpPlayground\bin\Debug\net6.0\CSharpPlayground.dll
+D:\Documents\Projects\CSharpPlayground\bin\Debug\net6.0\CSharpPlayground.pdb
+D:\Documents\Projects\CSharpPlayground\obj\Debug\net6.0\CSharpPlayground.csproj.AssemblyReference.cache
+D:\Documents\Projects\CSharpPlayground\obj\Debug\net6.0\CSharpPlayground.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Projects\CSharpPlayground\obj\Debug\net6.0\CSharpPlayground.AssemblyInfoInputs.cache
+D:\Documents\Projects\CSharpPlayground\obj\Debug\net6.0\CSharpPlayground.AssemblyInfo.cs
+D:\Documents\Projects\CSharpPlayground\obj\Debug\net6.0\CSharpPlayground.csproj.CoreCompileInputs.cache
+D:\Documents\Projects\CSharpPlayground\obj\Debug\net6.0\CSharpPlayground.dll
+D:\Documents\Projects\CSharpPlayground\obj\Debug\net6.0\refint\CSharpPlayground.dll
+D:\Documents\Projects\CSharpPlayground\obj\Debug\net6.0\CSharpPlayground.pdb
+D:\Documents\Projects\CSharpPlayground\obj\Debug\net6.0\CSharpPlayground.genruntimeconfig.cache
+D:\Documents\Projects\CSharpPlayground\obj\Debug\net6.0\ref\CSharpPlayground.dll
